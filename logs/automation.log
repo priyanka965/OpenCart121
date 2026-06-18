@@ -1,0 +1,38 @@
+17:12:12.417 [main] INFO  testCases.TC002_LoginTest -  *****Starting_TC002_LoginTest*****
+17:12:14.883 [main] INFO  testCases.TC002_LoginTest -  *****Finished_TC002_LoginTest*****
+17:16:41.346 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+17:16:45.762 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Starting TC001_AccountRegistrationTest****
+17:16:46.282 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link
+17:16:46.745 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link
+17:16:46.849 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details...
+17:16:50.107 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message...
+17:16:50.150 [main] INFO  testCases.TC001_AccountRegistrationTest -  *******TC001_AccountRegistrationTest end*********
+17:16:53.038 [main] INFO  testCases.TC002_LoginTest -  *****Starting_TC002_LoginTest*****
+17:16:54.726 [main] INFO  testCases.TC002_LoginTest -  *****Finished_TC002_LoginTest*****
+17:21:19.501 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+17:21:22.668 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Starting TC001_AccountRegistrationTest****
+17:21:22.840 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link
+17:21:23.266 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link
+17:21:23.275 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details...
+17:21:26.716 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message...
+17:21:26.760 [main] INFO  testCases.TC001_AccountRegistrationTest -  *******TC001_AccountRegistrationTest end*********
+17:21:28.695 [main] INFO  testCases.TC002_LoginTest -  *****Starting_TC002_LoginTest*****
+17:21:30.531 [main] INFO  testCases.TC002_LoginTest -  *****Finished_TC002_LoginTest*****
+16:28:31.279 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+16:28:39.895 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Starting TC001_AccountRegistrationTest****
+16:28:40.254 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link
+16:28:40.736 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link
+16:28:40.804 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details...
+16:28:43.847 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message...
+16:28:43.977 [main] INFO  testCases.TC001_AccountRegistrationTest -  *******TC001_AccountRegistrationTest end*********
+16:28:46.808 [main] INFO  testCases.TC002_LoginTest -  *****Starting_TC002_LoginTest*****
+16:28:48.444 [main] INFO  testCases.TC002_LoginTest -  *****Finished_TC002_LoginTest*****
+16:20:07.719 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+16:20:18.135 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Starting TC001_AccountRegistrationTest****
+16:20:18.905 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link
+16:20:20.124 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link
+16:20:20.150 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details...
+16:20:23.725 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message...
+16:20:23.773 [main] INFO  testCases.TC001_AccountRegistrationTest -  *******TC001_AccountRegistrationTest end*********
+16:20:27.252 [main] INFO  testCases.TC002_LoginTest -  *****Starting_TC002_LoginTest*****
+16:20:29.302 [main] INFO  testCases.TC002_LoginTest -  *****Finished_TC002_LoginTest*****
