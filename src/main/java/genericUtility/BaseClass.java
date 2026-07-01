@@ -76,7 +76,7 @@ public class BaseClass {
 	
 		
 	driver.manage().deleteAllCookies();
-	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(40));
 	
 	
 	driver.get(prop.getProperty("appURL2"));
