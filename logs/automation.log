@@ -1,0 +1,20 @@
+14:49:42.557 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+14:50:37.930 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+14:50:42.055 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Starting TC001_AccountRegistrationTest****
+14:50:42.463 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link
+14:50:43.295 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link
+14:50:43.298 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details...
+14:50:46.016 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message...
+14:50:46.059 [main] INFO  testCases.TC001_AccountRegistrationTest -  *******TC001_AccountRegistrationTest end*********
+14:50:47.846 [main] INFO  testCases.TC002_LoginTest -  *****Starting_TC002_LoginTest*****
+14:50:49.770 [main] INFO  testCases.TC002_LoginTest -  *****Finished_TC002_LoginTest*****
+14:56:31.472 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+15:06:32.412 [main] DEBUG org.testng.TestNG -  suiteXmlPath: "C:\Users\adigo\eclipse-workspace\OpenCart121\master.xml"
+15:06:35.928 [main] INFO  testCases.TC001_AccountRegistrationTest -  **** Starting TC001_AccountRegistrationTest****
+15:06:36.147 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link
+15:06:36.465 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link
+15:06:36.470 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details...
+15:06:39.048 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message...
+15:06:39.089 [main] INFO  testCases.TC001_AccountRegistrationTest -  *******TC001_AccountRegistrationTest end*********
+15:06:40.969 [main] INFO  testCases.TC002_LoginTest -  *****Starting_TC002_LoginTest*****
+15:06:42.878 [main] INFO  testCases.TC002_LoginTest -  *****Finished_TC002_LoginTest*****
