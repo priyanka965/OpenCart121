@@ -63,7 +63,7 @@ public class BaseClass {
 			
 		}
 		
-		if(prop.getProperty("execution_env").equalsIgnoreCase("local")) {
+		if(prop.getProperty("execution_env").equalsIgnoreCase("remote")) {
 			switch(br.toLowerCase()) 
 			{
 			case "chrome":driver=new ChromeDriver(); break;
